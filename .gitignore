@@ -1,0 +1,8 @@
+
+# IntellijJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/**
+classes/**
+target/**
